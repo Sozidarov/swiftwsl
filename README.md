@@ -7,6 +7,8 @@ Swift WSL это упрощенная альтернатива WSL (Windows Subs
 ✔ Минимальные зависимости — работает даже на слабых ПК.
 ✔ Достаточно для базовых задач — подходит для выполнения основных команд Linux без полноценной виртуализации.
 ## Установка
-```git clone https://github.com/ваш-репозиторий/Swift-WSL.git```
+```
+git clone https://github.com/ваш-репозиторий/Swift-WSL.git
 cd Swift-WSL
 pip install -r requirements.txt
+```
