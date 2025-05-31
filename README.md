@@ -22,4 +22,4 @@ pip install -r requirements.txt
 ❌ Поддерживает не все команды Linux (только базовые).
 
 ## 📜 Лицензия
-MIT License © 2024 sozidarov
+MIT License © 2025 sozidarov
