@@ -1,0 +1,14 @@
+os-sys
+subprocess32
+shutilwhich
+datetime
+platformdirs
+getpass3
+glob2
+statistics
+time
+zipfile36
+tarfile38
+hashlib3
+psutil
+pystyle
