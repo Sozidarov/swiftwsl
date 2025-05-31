@@ -12,3 +12,6 @@ git clone https://github.com/ваш-репозиторий/Swift-WSL.git
 cd Swift-WSL
 pip install -r requirements.txt
 ```
+## Использование
+### Запуск
+```python swift_wsl.py```
